@@ -1,1 +1,38 @@
-{}
+[
+    {
+        "cep": "14707-018",
+        "logradouro": "Rua Olívio Buchetti",
+        "complemento": "",
+        "bairro": "Jardim Canadá",
+        "localidade": "Bebedouro",
+        "uf": "SP",
+        "ibge": "3506102",
+        "gia": "2100",
+        "ddd": "17",
+        "siafi": "6221"
+    },
+    {
+        "cep": "71510-005",
+        "logradouro": "SHIN QL 2",
+        "complemento": "",
+        "bairro": "Setor de Habitações Individuais Norte",
+        "localidade": "Brasília",
+        "uf": "DF",
+        "ibge": "5300108",
+        "gia": "",
+        "ddd": "61",
+        "siafi": "9701"
+    },
+    {
+        "cep": "59094-310",
+        "logradouro": "Rua Praia de Malembá",
+        "complemento": "",
+        "bairro": "Ponta Negra",
+        "localidade": "Natal",
+        "uf": "RN",
+        "ibge": "2408102",
+        "gia": "",
+        "ddd": "84",
+        "siafi": "1761"
+    }
+]
